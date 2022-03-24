@@ -1,0 +1,16 @@
+﻿  Moc'ing MsgWebView.h...
+  Moc'ing TalkWindow.h...
+  moc_EmotionWindow.cpp
+  moc_MsgWebView.cpp
+  moc_TalkWindow.cpp
+  moc_TalkWindowShell.cpp
+  moc_WindowManager.cpp
+  BasicWindow.cpp
+  CCMainWindow.cpp
+  EmotionLabelItem.cpp
+  EmotionWindow.cpp
+  MsgWebView.cpp
+  TalkWindow.cpp
+  TalkWindowShell.cpp
+  WindowManager.cpp
+  QtQQ.vcxproj -> E:\qt\QtQQ\Win32\Debug\QtQQ.exe
